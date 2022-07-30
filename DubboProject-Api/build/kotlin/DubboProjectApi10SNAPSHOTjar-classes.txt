@@ -1,0 +1,1 @@
+/Users/jianchaojia/Desktop/Code/java/Project/DubboProject/DubboProject-Api/build/classes/kotlin/main/com/wanna/api/entity/User.class:/Users/jianchaojia/Desktop/Code/java/Project/DubboProject/DubboProject-Api/build/classes/kotlin/main/com/wanna/api/service/UserService.class
